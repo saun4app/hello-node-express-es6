@@ -3,7 +3,7 @@ A basic Node Express ES6 development server example.
 
 ## Installation
 ```
-$ git clone https://github.com/saun4app/node-express-es6-dev.git
+$ git clone https://github.com/saun4app/hello-node-express-es6.git
 $ npm install
 ```
 
@@ -15,6 +15,15 @@ The URL of the web server is `http://localhost:3030` which returns a blank page.
 
 
 ### Examples
+
+#### Passing a string parameter
+```
+http://localhost:3030
+```
+returns
+```
+Hello Node Express
+```
 
 #### Passing a string parameter
 ```
